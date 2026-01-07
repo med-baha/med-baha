@@ -10,9 +10,10 @@ I’m a **full-stack JavaScript web developer** with **2+ years of experience** 
 I focus on:
 - Clean, maintainable front-end architectures  
 - Scalable back-end APIs  
-- Strong **Animation 3D modeling** skills
+- Strong **3D Modeling and Animation** skills
 
 ---
+
 ### 🛠️ Languages and Tools:
 
 <p align="left">
@@ -21,14 +22,13 @@ I focus on:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="40"/>
 </p>
 
-
 ---
 
 ### 🔗 Links
-- 💼 LinkedIn  
-- 🌐 Portfolio  
+- 💼 [LinkedIn](https://www.linkedin.com/)  
+- 🌐 [Portfolio](https://your-portfolio-link.com)  
