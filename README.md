@@ -5,24 +5,14 @@
 🚀 What I Do:
 
 🎮 Game Development (Godot)
-
 🌐 Web Development (React, Angular, Next.js, MongoDB, Node.js, Express)
-
 🌍 Multiplayer & Networking Basics
 (Godot Multiplayer API, Netfox)
 
 🛠️ Skills & Tools:
+⚙️ Git 🎮 Godot 🧊 Blender 🐳 Docker
 
-⚙️ Git
-
-🎮 Godot
-
-🧊 Blender
-
-🐳 Docker
-
-🔗 Links
+🔗 Connect with me:
 
 💼 LinkedIn
-
 🌐 Portfolio
