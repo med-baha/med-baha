@@ -1,18 +1,36 @@
-👋 Hi, I'm Mohamed Baha Massoudi
+## 👋 Hi, I’m **Mohamed Baha Massoudi**
 
-🎓 Computer Science Graduate | 🎮 Game Dev | 🌐 Web Dev
+🎓 **Master’s Degree Student in Computer Science**  
+🎮 Game Developer | 🌐 Full-Stack JavaScript Web Developer
 
-🚀 What I Do:
+---
 
-🎮 Game Development (Godot)
-🌐 Web Development (React, Angular, Next.js, MongoDB, Node.js, Express)
-🌍 Multiplayer & Networking Basics
-(Godot Multiplayer API, Netfox)
+### 🚀 What I Do
+- 🎮 **Game Development** using **Godot**
+- 🌐 **Full-Stack Web Development**  
+  (Vue, Angular, Next.js, Node.js, Express, MongoDB)
+- 🌍 **Multiplayer & Networking Basics**  
+  (Godot Multiplayer API, Netfox)
 
-🛠️ Skills & Tools:
-⚙️ Git 🎮 Godot 🧊 Blender 🐳 Docker
+---
 
-🔗 Connect with me:
+### 💼 Experience
+I’m a **full-stack JavaScript web developer** with **2+ years of experience** building web applications.  
+I focus on:
+- Clean, maintainable front-end architectures  
+- Scalable back-end APIs  
+- Strong **CSS** skills and attention to **UI/UX design**
 
-💼 LinkedIn
-🌐 Portfolio
+---
+
+### 🛠️ Skills & Tools
+- ⚙️ Git  
+- 🎮 Godot  
+- 🧊 Blender  
+- 🐳 Docker  
+
+---
+
+### 🔗 Links
+- 💼 LinkedIn  
+- 🌐 Portfolio  
