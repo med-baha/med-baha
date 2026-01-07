@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m **Mohamed Baha Massoudi**
 
-🎓 **Master’s Degree Student in Computer Science**  
+🎓 **Computer Science Student**  
 🌐 Full-Stack JavaScript Web Developer | 🎮 Game Developer 
 
 ---
