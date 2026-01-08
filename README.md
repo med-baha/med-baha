@@ -2,6 +2,7 @@
 
 ![Animated banner](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
 
+
 🎓 **Master’s Degree Student in Computer Science**  
 🌐 Full-Stack JavaScript Web Developer | 🎮 Game Developer  
 
