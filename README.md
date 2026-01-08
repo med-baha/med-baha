@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m **Mohamed Baha Massoudi**
 
-![Animated banner](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
+![Animated banner](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
 
 
 🎓 **Master’s Degree Student in Computer Science**  
