@@ -2,50 +2,67 @@
 
 ![Animated banner](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
 
-
-🎓 **Master’s Degree Student in Computer Science**  
-🌐 Full-Stack JavaScript Web Developer | 🎮 Game Developer  
+🎓 **Computer Science Student**
+🌐 Full-Stack JavaScript Web Developer | 🎮 Game Developer | 🤖 AI Agent Builder
 
 ---
 
 ### 💼 Experience
-I’m a **full-stack JavaScript web developer** with **2+ years of experience** building web applications and games.  
+
+I’m a **full-stack JavaScript web developer** with **2+ years of experience** building web applications, games, and **AI-powered systems**.
+
 My focus areas:
-- Clean, maintainable front-end architectures  
-- Scalable back-end APIs  
-- Strong **3D Modeling and Animation** skills  
+
+* Clean, maintainable front-end architectures
+* Scalable back-end APIs
+* Designing and building **AI agents** for automation, data processing, and decision-making
+* Strong **3D Modeling and Animation** skills
+
+I enjoy combining **software engineering + AI** to create practical, real-world tools.
 
 ---
 
 ### 🧠 Languages
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
-![C](https://img.shields.io/badge/-C-000?&logo=C)
-![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?\&logo=JavaScript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?\&logo=TypeScript)
+![Python](https://img.shields.io/badge/-Python-000?\&logo=Python)
+![Java](https://img.shields.io/badge/-Java-000?\&logo=Java\&logoColor=007396)
+![C](https://img.shields.io/badge/-C-000?\&logo=C)
+![C++](https://img.shields.io/badge/-C++-000?\&logo=c%2b%2b\&logoColor=00599C)
+![SQL](https://img.shields.io/badge/-SQL-000?\&logo=MySQL)
 
 ---
 
 ### 🛠️ Technologies & Tools
 
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
-![Express](https://img.shields.io/badge/-Express-000?&logo=Express&logoColor=yellow)
-![Prisma](https://img.shields.io/badge/-Prisma-000?&logo=Prisma)
-![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
-![Godot](https://img.shields.io/badge/-Godot-000?&logo=Godot-Engine)
-![Blender](https://img.shields.io/badge/-Blender-000?&logo=Blender)
+![React](https://img.shields.io/badge/-React-000?\&logo=React)
+![Next.js](https://img.shields.io/badge/-Next.js-000?\&logo=Next.js)
+![Express](https://img.shields.io/badge/-Express-000?\&logo=Express\&logoColor=yellow)
+![Prisma](https://img.shields.io/badge/-Prisma-000?\&logo=Prisma)
+![Git](https://img.shields.io/badge/-Git-000?\&logo=Git)
+![Godot](https://img.shields.io/badge/-Godot-000?\&logo=Godot-Engine)
+![Blender](https://img.shields.io/badge/-Blender-000?\&logo=Blender)
+
+---
+
+### 🤖 AI & Agentic Systems
+
+* **Agentic AI** (tool-using, multi-step reasoning agents)
+* LLM-based automation workflows
+* Document ingestion, embeddings & semantic search
+* API-integrated agents (third-party tools & services)
+* Python-based AI pipelines
 
 ---
 
 ### 🎮 Game Development
 
-![Godot](https://img.shields.io/badge/-Godot%204-000?&logo=Godot-Engine)
+![Godot](https://img.shields.io/badge/-Godot%204-000?\&logo=Godot-Engine)
 ![Multiplayer](https://img.shields.io/badge/-Multiplayer%20Systems-000)
 ![3D Animation](https://img.shields.io/badge/-3D%20Animation-000)
 ![Game Design](https://img.shields.io/badge/-Game%20Design-000)
+
 
 ---
 
